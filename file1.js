@@ -1,0 +1,1 @@
+console.log("Hi! This is first session of the git");
